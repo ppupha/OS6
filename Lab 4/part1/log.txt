@@ -1,0 +1,268 @@
+PID = 5782
+
+===== cmdline =====
+zsh
+
+===== cwd =====
+/proc/5782/cwd	->	/home/ql
+
+===== environ =====
+GJS_DEBUG_TOPICS=JS ERROR;JS LOG
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+SESSION_MANAGER=local/asus:@/tmp/.ICE-unix/2474,unix/asus:/tmp/.ICE-unix/2474
+GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screen/602265ec_cfd3_44e2_9f06_5da9bf369ba6
+SSH_AGENT_PID=2432
+XDG_CURRENT_DESKTOP=ubuntu:GNOME
+LANG=en_US.UTF-8
+LC_IDENTIFICATION=ru_RU.UTF-8
+DEFAULTS_PATH=/usr/share/gconf/ubuntu.default.path
+XDG_SESSION_CLASS=user
+COLORTERM=truecolor
+QT_IM_MODULE=ibus
+GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+DESKTOP_SESSION=ubuntu
+USER=ql
+XDG_MENU_PREFIX=gnome-
+LC_MEASUREMENT=ru_RU.UTF-8
+GJS_DEBUG_OUTPUT=stderr
+HOME=/home/ql
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+PWD=/home/ql
+LC_NUMERIC=ru_RU.UTF-8
+GTK_MODULES=gail:atk-bridge
+_=/usr/bin/dbus-update-activation-environment
+WINDOWPATH=2
+XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+JOURNAL_STREAM=8:51566
+QT_ACCESSIBILITY=1
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+MANAGERPID=2201
+LC_TIME=ru_RU.UTF-8
+XDG_SESSION_DESKTOP=ubuntu
+LOGNAME=ql
+MANDATORY_PATH=/usr/share/gconf/ubuntu.mandatory.path
+GNOME_TERMINAL_SERVICE=:1.94
+LC_PAPER=ru_RU.UTF-8
+PATH=/home/ql/.local/bin:/home/ql/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+XDG_RUNTIME_DIR=/run/user/1000
+XMODIFIERS=@im=ibus
+XDG_SESSION_TYPE=x11
+LC_MONETARY=ru_RU.UTF-8
+GNOME_SHELL_SESSION_MODE=ubuntu
+LC_TELEPHONE=ru_RU.UTF-8
+USERNAME=ql
+XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg
+VTE_VERSION=6003
+INVOCATION_ID=4c7f271eafe041509e4822e50c79f372
+SHLVL=0
+SHELL=/usr/bin/zsh
+XAUTHORITY=/run/user/1000/gdm/Xauthority
+LC_NAME=ru_RU.UTF-8
+IM_CONFIG_PHASE=1
+TERM=xterm-256color
+LC_ADDRESS=ru_RU.UTF-8
+DISPLAY=:1
+GDMSESSION=ubuntu
+
+===== exe =====
+/proc/5782/exe	->	/usr/bin/zsh
+
+===== fd =====
+/proc/5782/fd/0	->	/dev/pts/4
+/proc/5782/fd/1	->	/dev/pts/4
+/proc/5782/fd/2	->	/dev/pts/4
+/proc/5782/fd/10	->	/dev/pts/4
+/proc/5782/fd/11	->	/usr/share/zsh/functions/VCS_Info.zwc
+/proc/5782/fd/12	->	/usr/share/zsh/functions/Completion.zwc
+/proc/5782/fd/13	->	/usr/share/zsh/functions/VCS_Info/Backends.zwc
+/proc/5782/fd/14	->	/usr/share/zsh/functions/Completion/Base.zwc
+/proc/5782/fd/16	->	/usr/share/zsh/functions/Misc.zwc
+/proc/5782/fd/19	->	/usr/share/zsh/functions/Zle.zwc
+
+===== maps =====
+559531eb9000-559531ed0000 r--p 00000000 08:03 141515                     /usr/bin/zsh
+559531ed0000-559531f65000 r-xp 00017000 08:03 141515                     /usr/bin/zsh
+559531f65000-559531f87000 r--p 000ac000 08:03 141515                     /usr/bin/zsh
+559531f88000-559531f8a000 r--p 000ce000 08:03 141515                     /usr/bin/zsh
+559531f8a000-559531f90000 rw-p 000d0000 08:03 141515                     /usr/bin/zsh
+559531f90000-559531fa4000 rw-p 00000000 00:00 0 
+559533f2f000-5595341ea000 rw-p 00000000 00:00 0                          [heap]
+7fc07b970000-7fc07b989000 r--s 00000000 08:03 669800                     /usr/share/zsh/functions/Zle.zwc
+7fc07b989000-7fc07b993000 r--s 00000000 08:03 802909                     /usr/share/zsh/functions/VCS_Info/Backends.zwc
+7fc07b995000-7fc07b996000 r--p 00000000 08:03 405405                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/regex.so
+7fc07b996000-7fc07b997000 r-xp 00001000 08:03 405405                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/regex.so
+7fc07b997000-7fc07b998000 r--p 00002000 08:03 405405                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/regex.so
+7fc07b998000-7fc07b999000 r--p 00002000 08:03 405405                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/regex.so
+7fc07b999000-7fc07b99a000 rw-p 00003000 08:03 405405                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/regex.so
+7fc07b9aa000-7fc07b9b2000 r--s 00000000 08:03 669798                     /usr/share/zsh/functions/VCS_Info.zwc
+7fc07b9bd000-7fc07b9d6000 r--s 00000000 08:03 669794                     /usr/share/zsh/functions/Misc.zwc
+7fc07b9de000-7fc07ba02000 r--s 00000000 08:03 669604                     /usr/share/zsh/functions/Completion/Base.zwc
+7fc07ba02000-7fc07ba03000 r--p 00000000 08:03 405408                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/stat.so
+7fc07ba03000-7fc07ba05000 r-xp 00001000 08:03 405408                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/stat.so
+7fc07ba05000-7fc07ba06000 r--p 00003000 08:03 405408                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/stat.so
+7fc07ba06000-7fc07ba07000 r--p 00003000 08:03 405408                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/stat.so
+7fc07ba07000-7fc07ba08000 rw-p 00004000 08:03 405408                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/stat.so
+7fc07ba0f000-7fc07ba10000 r--p 00000000 08:03 405414                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/zleparameter.so
+7fc07ba10000-7fc07ba11000 r-xp 00001000 08:03 405414                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/zleparameter.so
+7fc07ba11000-7fc07ba12000 r--p 00002000 08:03 405414                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/zleparameter.so
+7fc07ba12000-7fc07ba13000 r--p 00002000 08:03 405414                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/zleparameter.so
+7fc07ba13000-7fc07ba14000 rw-p 00003000 08:03 405414                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/zleparameter.so
+7fc07ba18000-7fc07ba19000 r--p 00000000 08:03 405393                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/langinfo.so
+7fc07ba19000-7fc07ba1a000 r-xp 00001000 08:03 405393                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/langinfo.so
+7fc07ba1a000-7fc07ba1b000 r--p 00002000 08:03 405393                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/langinfo.so
+7fc07ba1b000-7fc07ba1c000 r--p 00002000 08:03 405393                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/langinfo.so
+7fc07ba1c000-7fc07ba1d000 rw-p 00003000 08:03 405393                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/langinfo.so
+7fc07ba1d000-7fc07ba21000 r--p 00000000 08:03 405384                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/complist.so
+7fc07ba21000-7fc07ba2c000 r-xp 00004000 08:03 405384                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/complist.so
+7fc07ba2c000-7fc07ba2d000 r--p 0000f000 08:03 405384                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/complist.so
+7fc07ba2d000-7fc07ba2e000 ---p 00010000 08:03 405384                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/complist.so
+7fc07ba2e000-7fc07ba2f000 r--p 00010000 08:03 405384                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/complist.so
+7fc07ba2f000-7fc07ba30000 rw-p 00011000 08:03 405384                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/complist.so
+7fc07ba30000-7fc07ba48000 r--s 00000000 08:03 669790                     /usr/share/zsh/functions/Completion.zwc
+7fc07ba48000-7fc07ba4b000 r--p 00000000 08:03 405403                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/parameter.so
+7fc07ba4b000-7fc07ba50000 r-xp 00003000 08:03 405403                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/parameter.so
+7fc07ba50000-7fc07ba52000 r--p 00008000 08:03 405403                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/parameter.so
+7fc07ba52000-7fc07ba53000 ---p 0000a000 08:03 405403                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/parameter.so
+7fc07ba53000-7fc07ba54000 r--p 0000a000 08:03 405403                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/parameter.so
+7fc07ba54000-7fc07ba55000 rw-p 0000b000 08:03 405403                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/parameter.so
+7fc07ba55000-7fc07ba57000 r--p 00000000 08:03 405418                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/zutil.so
+7fc07ba57000-7fc07ba5c000 r-xp 00002000 08:03 405418                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/zutil.so
+7fc07ba5c000-7fc07ba5d000 r--p 00007000 08:03 405418                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/zutil.so
+7fc07ba5d000-7fc07ba5e000 ---p 00008000 08:03 405418                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/zutil.so
+7fc07ba5e000-7fc07ba5f000 r--p 00008000 08:03 405418                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/zutil.so
+7fc07ba5f000-7fc07ba60000 rw-p 00009000 08:03 405418                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/zutil.so
+7fc07ba60000-7fc07ba68000 r--p 00000000 08:03 405383                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/complete.so
+7fc07ba68000-7fc07ba81000 r-xp 00008000 08:03 405383                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/complete.so
+7fc07ba81000-7fc07ba84000 r--p 00021000 08:03 405383                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/complete.so
+7fc07ba84000-7fc07ba85000 ---p 00024000 08:03 405383                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/complete.so
+7fc07ba85000-7fc07ba86000 r--p 00024000 08:03 405383                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/complete.so
+7fc07ba86000-7fc07ba87000 rw-p 00025000 08:03 405383                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/complete.so
+7fc07ba87000-7fc07ba9d000 r--p 00000000 08:03 405413                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/zle.so
+7fc07ba9d000-7fc07bac7000 r-xp 00016000 08:03 405413                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/zle.so
+7fc07bac7000-7fc07bad0000 r--p 00040000 08:03 405413                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/zle.so
+7fc07bad0000-7fc07bad1000 ---p 00049000 08:03 405413                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/zle.so
+7fc07bad1000-7fc07bad3000 r--p 00049000 08:03 405413                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/zle.so
+7fc07bad3000-7fc07bada000 rw-p 0004b000 08:03 405413                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/zle.so
+7fc07bada000-7fc07badb000 rw-p 00000000 00:00 0 
+7fc07badb000-7fc07bade000 r--p 00000000 08:03 137016                     /usr/lib/x86_64-linux-gnu/libnss_files-2.31.so
+7fc07bade000-7fc07bae5000 r-xp 00003000 08:03 137016                     /usr/lib/x86_64-linux-gnu/libnss_files-2.31.so
+7fc07bae5000-7fc07bae7000 r--p 0000a000 08:03 137016                     /usr/lib/x86_64-linux-gnu/libnss_files-2.31.so
+7fc07bae7000-7fc07bae8000 r--p 0000b000 08:03 137016                     /usr/lib/x86_64-linux-gnu/libnss_files-2.31.so
+7fc07bae8000-7fc07bae9000 rw-p 0000c000 08:03 137016                     /usr/lib/x86_64-linux-gnu/libnss_files-2.31.so
+7fc07bae9000-7fc07baef000 rw-p 00000000 00:00 0 
+7fc07baef000-7fc07c32c000 r--p 00000000 08:03 136405                     /usr/lib/locale/locale-archive
+7fc07c32c000-7fc07c32e000 rw-p 00000000 00:00 0 
+7fc07c32e000-7fc07c353000 r--p 00000000 08:03 137000                     /usr/lib/x86_64-linux-gnu/libc-2.31.so
+7fc07c353000-7fc07c4cb000 r-xp 00025000 08:03 137000                     /usr/lib/x86_64-linux-gnu/libc-2.31.so
+7fc07c4cb000-7fc07c515000 r--p 0019d000 08:03 137000                     /usr/lib/x86_64-linux-gnu/libc-2.31.so
+7fc07c515000-7fc07c516000 ---p 001e7000 08:03 137000                     /usr/lib/x86_64-linux-gnu/libc-2.31.so
+7fc07c516000-7fc07c519000 r--p 001e7000 08:03 137000                     /usr/lib/x86_64-linux-gnu/libc-2.31.so
+7fc07c519000-7fc07c51c000 rw-p 001ea000 08:03 137000                     /usr/lib/x86_64-linux-gnu/libc-2.31.so
+7fc07c51c000-7fc07c520000 rw-p 00000000 00:00 0 
+7fc07c520000-7fc07c52f000 r--p 00000000 08:03 137004                     /usr/lib/x86_64-linux-gnu/libm-2.31.so
+7fc07c52f000-7fc07c5d6000 r-xp 0000f000 08:03 137004                     /usr/lib/x86_64-linux-gnu/libm-2.31.so
+7fc07c5d6000-7fc07c66d000 r--p 000b6000 08:03 137004                     /usr/lib/x86_64-linux-gnu/libm-2.31.so
+7fc07c66d000-7fc07c66e000 r--p 0014c000 08:03 137004                     /usr/lib/x86_64-linux-gnu/libm-2.31.so
+7fc07c66e000-7fc07c66f000 rw-p 0014d000 08:03 137004                     /usr/lib/x86_64-linux-gnu/libm-2.31.so
+7fc07c66f000-7fc07c67d000 r--p 00000000 08:03 141070                     /usr/lib/x86_64-linux-gnu/libtinfo.so.6.2
+7fc07c67d000-7fc07c68c000 r-xp 0000e000 08:03 141070                     /usr/lib/x86_64-linux-gnu/libtinfo.so.6.2
+7fc07c68c000-7fc07c69a000 r--p 0001d000 08:03 141070                     /usr/lib/x86_64-linux-gnu/libtinfo.so.6.2
+7fc07c69a000-7fc07c69e000 r--p 0002a000 08:03 141070                     /usr/lib/x86_64-linux-gnu/libtinfo.so.6.2
+7fc07c69e000-7fc07c69f000 rw-p 0002e000 08:03 141070                     /usr/lib/x86_64-linux-gnu/libtinfo.so.6.2
+7fc07c69f000-7fc07c6a0000 r--p 00000000 08:03 137002                     /usr/lib/x86_64-linux-gnu/libdl-2.31.so
+7fc07c6a0000-7fc07c6a2000 r-xp 00001000 08:03 137002                     /usr/lib/x86_64-linux-gnu/libdl-2.31.so
+7fc07c6a2000-7fc07c6a3000 r--p 00003000 08:03 137002                     /usr/lib/x86_64-linux-gnu/libdl-2.31.so
+7fc07c6a3000-7fc07c6a4000 r--p 00003000 08:03 137002                     /usr/lib/x86_64-linux-gnu/libdl-2.31.so
+7fc07c6a4000-7fc07c6a5000 rw-p 00004000 08:03 137002                     /usr/lib/x86_64-linux-gnu/libdl-2.31.so
+7fc07c6a5000-7fc07c6a7000 r--p 00000000 08:03 139982                     /usr/lib/x86_64-linux-gnu/libcap.so.2.32
+7fc07c6a7000-7fc07c6aa000 r-xp 00002000 08:03 139982                     /usr/lib/x86_64-linux-gnu/libcap.so.2.32
+7fc07c6aa000-7fc07c6ab000 r--p 00005000 08:03 139982                     /usr/lib/x86_64-linux-gnu/libcap.so.2.32
+7fc07c6ab000-7fc07c6ac000 ---p 00006000 08:03 139982                     /usr/lib/x86_64-linux-gnu/libcap.so.2.32
+7fc07c6ac000-7fc07c6ad000 r--p 00006000 08:03 139982                     /usr/lib/x86_64-linux-gnu/libcap.so.2.32
+7fc07c6ad000-7fc07c6ae000 rw-p 00007000 08:03 139982                     /usr/lib/x86_64-linux-gnu/libcap.so.2.32
+7fc07c6ae000-7fc07c6b0000 rw-p 00000000 00:00 0 
+7fc07c6b2000-7fc07c6b4000 r--p 00000000 08:03 405387                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/datetime.so
+7fc07c6b4000-7fc07c6b5000 r-xp 00002000 08:03 405387                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/datetime.so
+7fc07c6b5000-7fc07c6b6000 r--p 00003000 08:03 405387                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/datetime.so
+7fc07c6b6000-7fc07c6b7000 r--p 00003000 08:03 405387                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/datetime.so
+7fc07c6b7000-7fc07c6b8000 rw-p 00004000 08:03 405387                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/datetime.so
+7fc07c6b8000-7fc07c6b9000 r--p 00000000 08:03 405411                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/terminfo.so
+7fc07c6b9000-7fc07c6ba000 r-xp 00001000 08:03 405411                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/terminfo.so
+7fc07c6ba000-7fc07c6bb000 r--p 00002000 08:03 405411                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/terminfo.so
+7fc07c6bb000-7fc07c6bc000 r--p 00002000 08:03 405411                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/terminfo.so
+7fc07c6bc000-7fc07c6bd000 rw-p 00003000 08:03 405411                     /usr/lib/x86_64-linux-gnu/zsh/5.8/zsh/terminfo.so
+7fc07c6c1000-7fc07c6c8000 r--s 00000000 08:03 533408                     /usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache
+7fc07c6c8000-7fc07c6cc000 rw-p 00000000 00:00 0 
+7fc07c6cc000-7fc07c6cd000 r--p 00000000 08:03 136992                     /usr/lib/x86_64-linux-gnu/ld-2.31.so
+7fc07c6cd000-7fc07c6f0000 r-xp 00001000 08:03 136992                     /usr/lib/x86_64-linux-gnu/ld-2.31.so
+7fc07c6f0000-7fc07c6f8000 r--p 00024000 08:03 136992                     /usr/lib/x86_64-linux-gnu/ld-2.31.so
+7fc07c6f9000-7fc07c6fa000 r--p 0002c000 08:03 136992                     /usr/lib/x86_64-linux-gnu/ld-2.31.so
+7fc07c6fa000-7fc07c6fb000 rw-p 0002d000 08:03 136992                     /usr/lib/x86_64-linux-gnu/ld-2.31.so
+7fc07c6fb000-7fc07c6fc000 rw-p 00000000 00:00 0 
+7ffce0345000-7ffce036e000 rw-p 00000000 00:00 0                          [stack]
+7ffce03cd000-7ffce03d1000 r--p 00000000 00:00 0                          [vvar]
+7ffce03d1000-7ffce03d3000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 --xp 00000000 00:00 0                  [vsyscall]
+
+===== mem =====
+
+===== root =====
+/proc/5782/root	->	/
+
+===== stat =====
+pid                    5782
+comm                   (zsh)
+state                  S
+ppid                   4953
+pgrp                   5782
+session                5782
+tty_nr                 34820
+tpgid                  5782
+flags                  4194304
+minflt                 10382
+cminflt                63447
+majflt                 0
+cmajflt                9
+utime                  27
+stime                  8
+cutime                 35
+cstime                 15
+priority               20
+nice                   0
+num_threads            1
+itrealvalue            0
+starttime              33919
+vsize                  17993728
+rss                    1940
+rsslim                 18446744073709551615
+startcode              94099276103680
+endcode                94099276711637
+startstack             140724070169120
+kstkesp                0
+kstkeip                0
+signal                 0
+blocked                0
+sigignore              3686400
+sigcatch               134295555
+wchan                  1
+nswap                  0
+cnswap                 0
+exit_signal            17
+processor              3
+rt_priority            0
+policy                 0
+delayacct_blkio_ticks  0
+guest_time             0
+cguest_time            0
+start_data             94099276860144
+end_data               94099276889448
+start_brk              94099310
+
+===== statm =====
+size                   4393
+resident               1940
+shared                 1144
+text                   149
+lib                    0
+data                   812
+dt                     0

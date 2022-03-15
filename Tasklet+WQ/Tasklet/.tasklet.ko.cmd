@@ -1,0 +1,1 @@
+cmd_/home/nguyensang/Desktop/OS2021/Tasklet/tasklet.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id=sha1  -T ./scripts/module-common.lds -o /home/nguyensang/Desktop/OS2021/Tasklet/tasklet.ko /home/nguyensang/Desktop/OS2021/Tasklet/tasklet.o /home/nguyensang/Desktop/OS2021/Tasklet/tasklet.mod.o;  true
